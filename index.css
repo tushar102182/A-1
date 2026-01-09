@@ -80,6 +80,12 @@ body{
 .btn:hover{
     box-shadow: 10px 10px 10px rgba(211, 211, 211, 0.434);
 }
+.btn3:hover{
+    box-shadow: 10px 10px 10px rgba(211, 211, 211, 0.434);
+}
+.btn4:hover{
+    box-shadow: 10px 10px 10px rgba(211, 211, 211, 0.434);
+}
 .section-1{
     background:url(./stuffs/assets/hero-bg.png);
     background-repeat: no-repeat;
@@ -155,6 +161,9 @@ body{
     gap:16px;
 
 }
+.section-2{
+    background-color: rgba(255, 255, 255, 1);
+}
 .s2-heading {
     text-align: center;
 
@@ -190,6 +199,7 @@ font-weight: bold;
     width: 322px;
     height: 300px;
     cursor: pointer;
+    background-color: rgba(251, 251, 251, 1);
    
 }
 .s2-card:hover{
