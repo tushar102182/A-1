@@ -11,6 +11,13 @@ body{
     height: 60px;
     
 }
+.nav-text{
+    cursor: pointer;
+}
+.nav-text:hover{
+    box-shadow: 10px 10px 10px rgba(211, 211, 211, 0.724);
+
+}
 .nav{
     display: flex;
     gap:32px;
@@ -84,6 +91,7 @@ body{
     text-decoration: none;
     text-align: center;
     justify-content: center;
+    cursor: pointer;
 }
 .a-div1 img{
     height: 16px;
